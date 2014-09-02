@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Gogo
+tagline:          XoomBLog
+url:              http://gogoxoom.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Jesse Wolfe
+  url:            https://jessewolfe.com
+  email:          jessewolfe@gmail.com
 
 # Custom vars
-version:          1.0.0
+version:          0.0.1
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://gogoxoom.github.io
